@@ -10,6 +10,7 @@ _Multiprocessing_
 
 
 Multithreading  -> multiple people (threads)   working together in the same room (shared memory). 
+
 Multiprocessing -> multiple people (processes) working in their own offices      (separate memory spaces).
 
 	
